@@ -17679,6 +17679,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294488"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4154"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jean-Luc Addor"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21294613"
         },
         "parliamentId": {
@@ -17832,6 +17847,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Claudio Zanetti"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2422004"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4180"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thomas Ammann"
         }
       },
       {
