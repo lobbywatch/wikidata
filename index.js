@@ -4,20 +4,22 @@ const parlament = require('./parlament.json')
 
 const wikidataIndex = wikidata.reduce(
   (index, item) => {
-    if (item.Swiss_parliament_ID) {
-      index[item.Swiss_parliament_ID.value] = item
+    const parliamentId = item.parliamentId && item.parliamentId.value
+    if (parliamentId) {
+      if (!index[parliamentId]) {
+        index[parliamentId] = []
+      }
+      index[parliamentId].push(item)
     }
     return index
   },
   {}
 )
 
-// console.log(wikidataIndex)
-
 lobbywatch.forEach(mp => {
   const wikidataMp = wikidataIndex[mp.parliamentId]
   if (wikidataMp) {
-    console.log('matched', mp.name, mp.id, wikidataMp.human.value)
+    // console.log('matched', mp.name, mp.id, wikidataMp[0].human.value)
   } else {
     console.log('missed', mp.name)
   }
