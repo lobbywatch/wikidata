@@ -17535,6 +17535,25 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16021674"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4139"
+        },
+        "positionHeld": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18510613"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thomas Hefti"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q29044353"
         },
         "parliamentId": {
@@ -17694,6 +17713,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21181009"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4158"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thomas Burgherr"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21294613"
         },
         "parliamentId": {
@@ -17807,6 +17841,36 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294822"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4170"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Franz Ruppen"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2221105"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4173"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sandra Sollberger-Muff"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21180065"
         },
         "parliamentId": {
@@ -17832,6 +17896,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Mauro Tuena"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1264296"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4176"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hans-Ueli Vogt"
         }
       },
       {
@@ -17927,6 +18006,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294570"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4187"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Philippe Bauer"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21162577"
         },
         "parliamentId": {
@@ -17999,6 +18093,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16669767"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4193"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Philippe Nantermod"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q23059253"
         },
         "parliamentId": {
@@ -18039,6 +18148,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Denis de la Reussille"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21061273"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4204"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Beat Rieder"
         }
       },
       {

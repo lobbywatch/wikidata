@@ -52,7 +52,7 @@ lobbywatch.forEach(mp => {
             if (result.description === 'Swiss politician') {
               console.log('- auto match', result.label, mp.name)
               console.log('-', result.id, 'P1307', mp.parliamentId)
-              wdEdit.claim.add(result.id, 'P1307', mp.parliamentId)
+              // wdEdit.claim.add(result.id, 'P1307', mp.parliamentId)
             } else {
               console.log('- needs manual check')
             }
