@@ -34,7 +34,7 @@ apolloFetch({
 })
   .then(response => fs.writeFileSync(
     'lobbywatch.json',
-    JSON.stringify(response.data.parliamentarians, null, 2),
+    JSON.stringify(response, null, 2),
     'utf8'
   ))
 
