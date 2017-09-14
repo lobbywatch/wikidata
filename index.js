@@ -55,9 +55,11 @@ lobbywatch.forEach(mp => {
               // wdEdit.claim.add(result.id, 'P1307', mp.parliamentId)
             } else {
               console.log('- needs manual check')
+              console.log('-', result)
             }
           } else {
             console.log('- multi match')
+            console.log(json.search)
           }
         } else {
           console.log('- no match')

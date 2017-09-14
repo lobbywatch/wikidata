@@ -15715,6 +15715,25 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q813067"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4032"
+        },
+        "positionHeld": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18510612"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Beat Jans"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q119412"
         },
         "parliamentId": {
@@ -17683,6 +17702,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1310215"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4151"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Josef Dittli"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q15819575"
         },
         "parliamentId": {
@@ -17698,6 +17732,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1370309"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4153"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Peter Hegglin"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21294488"
         },
         "parliamentId": {
@@ -17708,6 +17757,51 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Jean-Luc Addor"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120634"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4155"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Beat Arnold"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294587"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4156"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Michaël Buffat"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21283173"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4157"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Manfred Bühler"
         }
       },
       {
@@ -17742,6 +17836,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Marco Chiesa"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21180915"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4160"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Marcel Dettling"
         }
       },
       {
@@ -17792,6 +17901,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21268794"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4164"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Christian Imark"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21268698"
         },
         "parliamentId": {
@@ -17826,6 +17950,40 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1883801"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4167"
+        },
+        "positionHeld": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q484876"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Magdalena Martullo-Blocher"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294778"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4168"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jacques Nicolet"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21170951"
         },
         "parliamentId": {
@@ -17851,6 +18009,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Franz Ruppen"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294826"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4172"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Werner Salzmann"
         }
       },
       {
@@ -17916,6 +18089,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21180045"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4177"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bruno Walliser"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21180052"
         },
         "parliamentId": {
@@ -17926,6 +18114,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Claudio Zanetti"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21264986"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4179"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "David Zuberbühler"
         }
       },
       {
@@ -17956,6 +18159,36 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Andrea Gmür-Schönenberger"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121849"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4182"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Claude Béglé"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294744"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4183"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Géraldine Marchand-Balet"
         }
       },
       {
@@ -18040,6 +18273,21 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23060472"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4189"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thierry Burkart"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q19840724"
         },
         "parliamentId": {
@@ -18108,6 +18356,74 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21294873"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4194"
+        },
+        "positionHeld": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24702407"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Laurent Wehrli"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21694713"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4195"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Laurence Fehlmann Rielle"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1591536"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4196"
+        },
+        "positionHeld": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121998"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Tim Guldimann"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20192072"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4197"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Min Li Marti"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q23059253"
         },
         "parliamentId": {
@@ -18118,6 +18434,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Mattea Meyer"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23059252"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4199"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Priska Seiler Graf"
         }
       },
       {
@@ -18153,6 +18484,36 @@
       {
         "human": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23059257"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4202"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regine Sauter"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23060461"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4203"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Angelo Barrile"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21061273"
         },
         "parliamentId": {
@@ -18163,6 +18524,21 @@
           "xml:lang": "de",
           "type": "literal",
           "value": "Beat Rieder"
+        }
+      },
+      {
+        "human": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122873"
+        },
+        "parliamentId": {
+          "type": "literal",
+          "value": "4205"
+        },
+        "humanLabel": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Beat Vonlanthen"
         }
       },
       {
